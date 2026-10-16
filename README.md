@@ -6,19 +6,43 @@ It is a reading and analysis tool. It is not a live timing feed, and it is not a
 
 ## Screenshots
 
-These images are captures of the running application.
+These are captures of the running application. Paths are relative so GitHub renders them from this repository.
 
-![Championship performance overview, with the selectable points progression chart](docs/screenshots/overview-lab.png)
+### Championship overview
 
-![Comparison laboratory for two drivers, with paired metrics](docs/screenshots/compare-lab.png)
+![F1 Analyst championship overview](docs/screenshots/overview-lab.png)
 
-![Driver and constructor championship standings, with points gaps](docs/screenshots/standings-lab.png)
+Season status, championship leaders, and the selectable points progression chart.
 
-![Race analysis classification, including grid change](docs/screenshots/race-lab.png)
+### Driver comparison
 
-![Driver profile with championship points, season progression, and finish distribution](docs/screenshots/driver-lab.png)
+![F1 Analyst driver comparison laboratory](docs/screenshots/compare-lab.png)
 
-![Season calendar in card view, with completed and upcoming grands prix](docs/screenshots/calendar-lab.png)
+Two drivers compared with paired metrics. A blank value stays blank.
+
+### Championship standings
+
+![F1 Analyst driver and constructor standings](docs/screenshots/standings-lab.png)
+
+Official points, the gap to the leader, and wins. The constructor table uses the same page.
+
+### Race analysis
+
+![F1 Analyst race classification](docs/screenshots/race-lab.png)
+
+Classification with grid change. Lap times and pit stops are on the same race page when Jolpica publishes them.
+
+### Driver profile
+
+![F1 Analyst driver profile](docs/screenshots/driver-lab.png)
+
+Championship position, season points, progression, and finish distribution.
+
+### Race calendar
+
+![F1 Analyst season calendar](docs/screenshots/calendar-lab.png)
+
+Completed and upcoming grands prix. A winner is shown only after a classification exists.
 
 ## Key features
 
